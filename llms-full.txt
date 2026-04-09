@@ -1,0 +1,1548 @@
+# righttocure.org -- Full Content
+
+This file contains the full text content of all pages on righttocure.org.
+Part of the Open Bankruptcy Project (openbankruptcyproject.org).
+
+
+---
+
+## What Does Right to Cure Mean? -- Default Cure Notice Explained [2026]
+Source: https://righttocure.org/what-does-right-to-cure-mean.html
+
+← righttocure.org Home
+
+What Does Right to Cure Mean?
+
+Understanding your right to fix a loan default before losing your property
+
+Quick Answer
+
+Right to cure means you have a legal right to fix a loan default by paying the past-due amount (plus fees) within a set deadline. The lender must give you written notice and cannot repossess or foreclose until the cure period expires. If you cure the default in time, your loan continues as if the default never happened.
+
+What Does Right to Cure Mean in Practice?
+
+When you fall behind on a secured loan -- a mortgage, auto loan, or other installment agreement -- the lender cannot immediately take your property. In most states, the lender must first send you a notice of right to cure (sometimes called a "notice of default" or "notice of intent to accelerate"). This notice:
+
+Identifies the exact amount you must pay to cure the default
+
+Specifies the deadline (typically 10-30 days for auto loans, 30-120 days for mortgages)
+
+Explains what happens if you do not cure (repossession, foreclosure, acceleration of the full balance)
+
+May include late fees and costs that must also be paid
+
+Right to Cure Default -- How It Works
+
+A right to cure default is your opportunity to reinstate a loan by paying everything you owe through the cure date. Here is the typical process:
+
+You miss one or more payments
+
+The lender sends a notice of right to cure
+
+You have the cure period (varies by state and contract) to pay the past-due amount plus fees
+
+If you pay in full by the deadline, the loan is reinstated
+
+If you do not pay, the lender can proceed with repossession, foreclosure, or acceleration
+
+The cure amount is typically the past-due payments plus late fees and costs -- not the entire loan balance. This is what makes the right to cure so valuable.
+
+Cure Periods by Debt Type
+
+Auto loans: 10-20 days in most states. Some states (like Connecticut) require 10 days; others allow up to 30. Auto loan cure guide →
+
+Mortgages: Federal law requires servicers to wait 120 days after default before starting foreclosure. Many states add additional cure periods. Mortgage cure rights →
+
+Bankruptcy cure: In Chapter 13, you can cure defaults over the entire 3-5 year plan period under Section 1322(b)(5). Bankruptcy cure guide →
+
+What to Do When You Get a Right to Cure Notice
+
+Read the deadline carefully -- it is often shorter than you expect
+
+Verify the amount -- check that late fees and charges are correct
+
+Pay in the exact manner specified -- certified check, wire, or online payment as required
+
+Get written confirmation -- after paying, request a letter confirming the cure
+
+Consider Chapter 13 -- if you cannot cure in time, filing bankruptcy triggers the automatic stay and gives you 3-5 years to catch up. See automatic stay guide
+
+Right to Cure by State
+
+Cure rights and notice requirements vary significantly by state. Some states have strong borrower protections with long cure periods; others offer minimal protection. For a state-by-state breakdown, see our right to cure by state guide.
+
+For specific notice requirements your lender must follow, see our notice requirements guide.
+
+Right to Cure Home
+Deficiency Balance Guide
+
+Part of the Open Bankruptcy Project -- free, open-source bankruptcy information.
+
+This is educational information, not legal advice.
+
+---
+
+## After Cure Default -- What Happens If You Default Again
+Source: https://righttocure.org/after-cure-default.html
+
+After Cure Default
+
+What Happens If You Default Again
+
+Home » After Cure Default
+
+Reduced Protections After Repeated Default
+
+While most states do not limit cure frequency, repeated defaults reduce practical protections. Judges may be less sympathetic. In bankruptcy, serial filing restrictions under 11 U.S.C. 362(c) can limit the automatic stay.
+
+Bankruptcy Serial Filing Restrictions
+
+If a case was dismissed within the past year, the automatic stay in a new case lasts only 30 days. If two cases were dismissed, you get no stay without a court order.
+
+Practical Strategies
+
+If you are defaulting repeatedly, the payment may be unaffordable. Consider: loan modification, selling the asset, a Chapter 13 plan restructuring all debts, or surrendering plus bankruptcy.
+
+Frequently Asked Questions
+
+Can the lender refuse my cure after a previous default?
+
+If your state requires acceptance of cure, they generally must accept it regardless. But the loan agreement may accelerate after repeated defaults.
+
+Does a second default look worse in court?
+
+Yes. Courts may require additional evidence of good faith. Be prepared to explain what has changed.
+
+Is there a permanent solution?
+
+Chapter 13 can reduce car payments (cramdown), stretch mortgage arrears over 5 years, and eliminate other debts. Loan modification can permanently reduce payments.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
+
+Related Guides
+
+341 Meeting of Creditors Guide
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Reaffirmation Agreements Explained
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on statutes of limitations and time-barred debt:
+
+Fair Debt Collection Practices Act
+Cornell LII -- FDCPA
+
+CFPB: Time-Barred Debt
+Consumer guide
+
+FTC: Debt Collection FAQs
+FTC guide
+
+CFPB Complaint Tool
+File complaints
+
+Find Free Legal Aid
+LSC legal aid finder
+
+National Consumer Law Center
+NCLC resources
+
+SOL Research
+Google Scholar
+
+Related Guides
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Bankruptcy Hardship Discharge
+
+Hardship discharge in Chapter 13
+
+bankruptcyhardship.org →
+
+Chapter 13 Plan Guide
+
+How Chapter 13 repayment plans work
+
+chapter13plan.org →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Auto Loan Right to Cure -- Preventing Repossession
+Source: https://righttocure.org/auto-loan-cure.html
+
+Auto Loan Right to Cure
+
+Preventing Repossession
+
+Home » Auto Loan Right to Cure
+
+Pre-Repossession Notice Requirements
+
+Many states require written notice before repossessing. The notice must tell you: the amount owed, the deadline to cure, and consequences if you do not cure. The notice period is typically 10-30 days.
+
+What You Must Pay
+
+The cure amount is missed payments plus late fees and collection costs. It is NOT the full loan balance. For example: 3 missed payments of $400 with $50 late fees = $1,350 cure amount.
+
+After Repossession -- Right to Redeem
+
+You may have the right to redeem by paying the full balance plus repo and storage costs. Some states allow reinstatement (curing just past-due amounts) after repo. The window is short -- until the vehicle is sold.
+
+Frequently Asked Questions
+
+Can they repossess without warning?
+
+In states without mandatory notice, yes. But the loan agreement itself may require notice. In states with mandatory notice, repossession without it may be wrongful.
+
+What if I cured but they repossessed anyway?
+
+This is wrongful repossession. Contact a consumer protection attorney immediately. You may have claims for conversion, breach of contract, and UCC violations.
+
+Can Chapter 13 cure an auto default?
+
+Yes. Chapter 13 cures the default and keeps the vehicle. If the loan is more than 910 days old, you can reduce the balance to the car's value (cramdown).
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
+
+Related Guides
+
+341 Meeting of Creditors Guide
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Reaffirmation Agreements Explained
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on statutes of limitations and time-barred debt:
+
+Fair Debt Collection Practices Act
+Cornell LII -- FDCPA
+
+CFPB: Time-Barred Debt
+Consumer guide
+
+FTC: Debt Collection FAQs
+FTC guide
+
+CFPB Complaint Tool
+File complaints
+
+Find Free Legal Aid
+LSC legal aid finder
+
+National Consumer Law Center
+NCLC resources
+
+SOL Research
+Google Scholar
+
+Related Guides
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Bankruptcy Hardship Discharge
+
+Hardship discharge in Chapter 13
+
+bankruptcyhardship.org →
+
+Chapter 13 Plan Guide
+
+How Chapter 13 repayment plans work
+
+chapter13plan.org →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Bankruptcy Cure -- Using Chapter 13 to Catch Up on Payments
+Source: https://righttocure.org/bankruptcy-cure.html
+
+Bankruptcy Cure
+
+Using Chapter 13 to Catch Up on Payments
+
+Home » Bankruptcy Cure
+
+The Power of Chapter 13 Cure
+
+Chapter 13 allows you to spread arrears over a 3-5 year plan while making current payments. The automatic stay stops all collection immediately. The creditor must accept the plan if it meets statutory requirements.
+
+Curing Mortgage Arrears
+
+Under 11 U.S.C. 1322(b)(5), you cure mortgage arrears through your plan while maintaining regular payments. At completion, the mortgage is fully current.
+
+Curing Auto Loan Defaults
+
+Chapter 13 cures auto defaults and may reduce the balance to the car's value if the loan is more than 910 days old (cramdown under 11 U.S.C. 1325(a)).
+
+Frequently Asked Questions
+
+Can I cure in Chapter 7?
+
+No. Chapter 7 does not provide a cure mechanism. Only Chapter 13 allows you to cure arrears over time while keeping property.
+
+How much will my payment be?
+
+Based on income, expenses, and debts. The means test helps determine plan length (3 or 5 years). Many are surprised at how affordable it is.
+
+What if I fall behind on plan payments?
+
+You can modify the plan. If dismissal occurs, creditors resume collection where they left off. Communication with your attorney is critical.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
+
+Related Guides
+
+341 Meeting of Creditors Guide
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Reaffirmation Agreements Explained
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on statutes of limitations and time-barred debt:
+
+Fair Debt Collection Practices Act
+Cornell LII -- FDCPA
+
+CFPB: Time-Barred Debt
+Consumer guide
+
+FTC: Debt Collection FAQs
+FTC guide
+
+CFPB Complaint Tool
+File complaints
+
+Find Free Legal Aid
+LSC legal aid finder
+
+National Consumer Law Center
+NCLC resources
+
+SOL Research
+Google Scholar
+
+Related Guides
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Bankruptcy Hardship Discharge
+
+Hardship discharge in Chapter 13
+
+bankruptcyhardship.org →
+
+Chapter 13 Plan Guide
+
+How Chapter 13 repayment plans work
+
+chapter13plan.org →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Cure Timeline -- Deadlines and Steps to Save Your Property
+Source: https://righttocure.org/cure-timeline.html
+
+Cure Timeline
+
+Deadlines and Steps to Save Your Property
+
+Home » Cure Timeline
+
+Day 1-30: Recognize the Default
+
+Default usually begins when you miss a payment by 30+ days. Review your loan agreement. Check mail for notices. Contact the lender immediately. Document everything.
+
+Day 30-60: Receive Notice and Assess
+
+Note the exact deadline and cure amount. Get the amount in writing. Assess whether you can pay through savings, family help, or other sources. If not, explore loss mitigation or refinancing.
+
+Day 60-90: Cure or Seek Help
+
+If you can cure, pay by certified funds and keep proof. If not, consult an attorney or legal aid. Consider bankruptcy -- filing stops enforcement immediately.
+
+After the Deadline: Emergency Options
+
+You may still have the right to redeem (pay full balance). Filing Chapter 13 stops the process and creates a new payment plan. Contact an attorney immediately.
+
+Frequently Asked Questions
+
+What if I can't cure the full amount?
+
+Contact the lender for an extension or payment plan. If they refuse, Chapter 13 bankruptcy creates a court-supervised plan to cure over 3-5 years.
+
+Does the deadline extend during negotiations?
+
+Not automatically. Unless the lender agrees in writing to extend. Federal Regulation X provides some protection for mortgage modification applications.
+
+Can I cure in installments?
+
+Not under most statutes -- full cure is due by deadline. But some lenders agree to repayment plans. In Chapter 13, the cure is spread over 3-5 years.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
+
+Related Guides
+
+341 Meeting of Creditors Guide
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Reaffirmation Agreements Explained
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on statutes of limitations and time-barred debt:
+
+Fair Debt Collection Practices Act
+Cornell LII -- FDCPA
+
+CFPB: Time-Barred Debt
+Consumer guide
+
+FTC: Debt Collection FAQs
+FTC guide
+
+CFPB Complaint Tool
+File complaints
+
+Find Free Legal Aid
+LSC legal aid finder
+
+National Consumer Law Center
+NCLC resources
+
+SOL Research
+Google Scholar
+
+Related Guides
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Bankruptcy Hardship Discharge
+
+Hardship discharge in Chapter 13
+
+bankruptcyhardship.org →
+
+Chapter 13 Plan Guide
+
+How Chapter 13 repayment plans work
+
+chapter13plan.org →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Notice of Right to Cure -- Default Cure Rights in Bankruptcy [2026]
+Source: https://righttocure.org/
+
+🌐 Esta pagina esta disponible en Espanol
+
+Notice of Right to Cure -- Your Right to Fix a Default
+
+Your Right to Fix a Default Before Losing Your Property
+
+What Is the Right to Cure?
+
+The right to cure is your legal right to fix a default (usually by making overdue payments) before the creditor can take further action like repossession, foreclosure, or contract termination. Most states require creditors to send a "notice of right to cure" giving you a specific number of days to bring the account current before they can proceed.
+
+This is one of the most important consumer protections in secured lending. It gives you a window -- typically 10 to 30 days -- to save your home, car, or other property from seizure.
+
+Right to Cure in Auto Loans
+
+Before repossessing your vehicle, most states require the lender to send a notice giving you 10-20 days to catch up on missed payments. The notice must tell you: the exact amount needed to cure, the deadline, and what will happen if you don't cure (repossession). Some states require two notices before repossession is allowed.
+
+If the lender repossesses without providing the required cure notice, the repossession may be wrongful. You may be entitled to return of the vehicle and damages. After repossession, you typically have an additional right to redeem (pay the full balance) before the vehicle is sold.
+
+Right to Cure in Mortgages
+
+Mortgage cure rights are robust. Federal law (CFPB servicing rules) requires servicers to wait at least 120 days after a missed payment before starting foreclosure. Most states add additional cure periods on top of this. During this time, you can: make up all missed payments to reinstate the loan, apply for a loan modification, request forbearance, or sell the home.
+
+The cure amount includes: all missed monthly payments, late fees (check if the amount is correct -- overcharges are common), and the servicer's costs. Filing bankruptcy resets the clock and gives you additional time through a Chapter 13 plan to cure the arrears over 3-5 years.
+
+Right to Cure in Commercial Contracts
+
+Many business contracts include a right to cure provision. Before terminating a contract for breach, the non-breaching party must provide written notice and a reasonable opportunity to cure. The cure period is typically specified in the contract -- commonly 15 to 30 days. If you cure within the period, the contract continues as if the breach never occurred.
+
+Review your contract carefully. Some contracts specify that the right to cure only applies to the first breach, or limit the number of cures allowed. Others allow cure only for certain types of breaches (payment defaults but not performance failures).
+
+How to Respond to a Cure Notice
+
+1. Read the notice carefully -- note the exact amount and deadline. 2. Verify the amount. Request an itemized breakdown. Late fees, inspection fees, and attorney fees are often overcharged. 3. Pay the full cure amount by the deadline. Partial payments may not be accepted and do not cure the default. 4. Get confirmation in writing that the cure was accepted and the account is current. 5. If you cannot pay, contact the creditor immediately to negotiate or explore alternatives.
+
+When You Cannot Cure
+
+If you cannot make the cure payment: Negotiate. Some lenders will accept a payment plan or modification. File bankruptcy. Chapter 13 stops repossession or foreclosure through the automatic stay protection in bankruptcy and lets you cure arrears over 3-5 years while keeping your property. Sell the property. If you have equity, selling may be better than losing it to foreclosure or repossession. Surrender voluntarily. This may reduce the deficiency balance compared to forced sale.
+
+Right to Cure After Repossession
+
+In many states, you retain the right to "redeem" collateral even after repossession but before the lender sells it. Redemption typically requires paying the full accelerated balance (not just the past-due amount). The lender must provide you with a notice stating the redemption amount and the deadline (usually 10-15 days after repossession).
+
+Some states also give you the right to reinstate (bring current) rather than redeem (pay in full). Know which right your state provides -- reinstatement is much more affordable. Check your state's protections.
+
+Explore All Topics
+
+Right to Cure by State -- Pre-Default Notice Requirements
+
+Mortgage Right to Cure -- Preventing Foreclosure
+
+Auto Loan Right to Cure -- Preventing Repossession
+
+UCC Cure Provisions -- Your Rights Under the Uniform Commercial Code
+
+Cure Timeline -- Deadlines and Steps to Save Your Property
+
+Cure Notice Requirements -- What Lenders Must Tell You
+
+Bankruptcy Cure -- Using Chapter 13 to Catch Up on Payments
+
+Reinstatement vs. Cure -- Understanding the Difference
+
+After Cure Default -- What Happens If You Default Again
+
+Frequently Asked Questions
+
+How many days do I have to cure a default?
+
+Typically 10-30 days after receiving the cure notice, depending on your state and the type of debt. Mortgages generally have longer cure periods (30+ days). Auto loans vary widely (10-20 days). Always check the specific deadline on your notice.
+
+Does curing a default fix my credit?
+
+Curing the default prevents further negative reporting (repossession, foreclosure). The late payments that triggered the default will still appear on your credit report. However, a cured default is far less damaging than a completed repossession or foreclosure.
+
+Can I cure a default more than once?
+
+In most states, yes, but some lenders and contracts limit the number of times you can cure. After multiple cure events, the lender may argue that the pattern demonstrates inability to maintain the obligation and seek relief from the cure requirement.
+
+What is the right to cure in bankruptcy?
+
+In bankruptcy, the right to cure allows a Chapter 13 debtor to catch up on missed payments for secured debts like mortgages and car loans over the 3-to-5-year plan period. Under Section 1322(b)(5), you can cure defaults and maintain payments going forward to keep your property.
+
+How long do I have to cure a mortgage default?
+
+In Chapter 13 bankruptcy, you have the entire length of your plan -- 3 to 5 years -- to cure mortgage arrears while making current payments. Outside of bankruptcy, most states require lenders to give 30 to 120 days notice before foreclosure, with federal rules requiring 120 days minimum.
+
+Can I cure a car loan default in Chapter 13?
+
+Yes. Chapter 13 allows you to cure car loan defaults through your repayment plan. You can spread the arrears over 3 to 5 years while making ongoing payments. If the vehicle was purchased more than 910 days before filing, you may also be able to reduce the loan balance to the car current value.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code)
+and the Fair Debt Collection Practices Act (15 U.S.C. 1692). District-level statistics from the
+Federal Judicial Center Integrated Database (37.9 million cases, 94 districts, FY 2008-2024).
+This is educational content, not legal advice.
+
+Related Guides
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Reaffirmation Agreements Explained
+
+Payday Loan Debt in Bankruptcy
+
+462+ Court Documents Freed from PACER
+
+We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+
+$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on statutes of limitations and time-barred debt:
+
+Fair Debt Collection Practices Act
+Cornell LII -- FDCPA
+
+CFPB: Time-Barred Debt
+Consumer guide
+
+FTC: Debt Collection FAQs
+FTC guide
+
+CFPB Complaint Tool
+File complaints
+
+Find Free Legal Aid
+LSC legal aid finder
+
+National Consumer Law Center
+NCLC resources
+
+SOL Research
+Google Scholar
+
+Related Guides
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Bankruptcy Hardship Discharge
+
+Hardship discharge in Chapter 13
+
+bankruptcyhardship.org →
+
+Chapter 13 Plan Guide
+
+How Chapter 13 repayment plans work
+
+chapter13plan.org →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+Your Next Questions
+
+Real users ask these next -- we built the answers.
+
+Chapter 7 vs Chapter 13
+
+Filing stops most collection actions immediately
+
+chapter7vs13.org →
+
+How to File Bankruptcy
+
+The step-by-step process from start to discharge
+
+howtofilebankruptcy.org →
+
+Exemptions by State
+
+What property creditors cannot take
+
+bankruptcyexemptionsbystate.com →
+
+File Without a Lawyer?
+
+Pro se filing: risks, process, and when it makes sense
+
+filebankruptcywithoutlawyer.com →
+
+State Bankruptcy Guides
+
+Exemptions vary dramatically by state. Find your state's homestead, vehicle, and wildcard exemptions.
+
+California · Texas · Florida · New York · Illinois · Ohio
+
+Browse All 50 State Guides →
+
+📖 Bankruptcy Glossary -- 61 terms explained
+
+Filing in Your State?
+
+Exemptions vary dramatically by state. Check what you can protect.
+
+Browse Your State's Exemptions →
+
+Have a Question?
+
+Open Bankruptcy Project provides free educational information. We are not a law firm.
+Nothing on this site constitutes legal advice. For advice about your specific situation,
+consult a licensed attorney.
+
+Select your state...
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+
+I understand this is educational information, not legal advice.
+
+Submit Question
+
+Thank you! We typically respond within one business day.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+righttocure.org
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (determination pending).
+
+Privacy |
+Terms
+
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Mortgage Right to Cure -- Preventing Foreclosure
+Source: https://righttocure.org/mortgage-cure-rights.html
+
+Mortgage Right to Cure
+
+Preventing Foreclosure
+
+Home » Mortgage Right to Cure
+
+Federal Baseline Protections
+
+Under CFPB Regulation X, servicers cannot file foreclosure until the borrower is more than 120 days delinquent. If you submit a complete loss mitigation application before foreclosure, the servicer must evaluate it first.
+
+State Pre-Foreclosure Notice
+
+Most states require notice of default giving you 30-90 days to cure. California requires 3 months. New York requires 90 days. Illinois requires 30 days.
+
+Calculating the Cure Amount
+
+Includes: past-due payments, late fees, attorney fees, and escrow shortfall. It does NOT include the full remaining balance. Your servicer must provide an accurate amount upon request.
+
+Loss Mitigation Alternatives
+
+If you cannot afford the full cure: loan modification, forbearance, repayment plan, or partial claim (FHA loans). Apply before the foreclosure sale.
+
+Frequently Asked Questions
+
+What if the servicer won't accept my payment?
+
+Servicers are legally required to accept cure payments. If they refuse, send certified funds by certified mail. File a complaint with the CFPB and state attorney general.
+
+Can I cure a mortgage in bankruptcy?
+
+Chapter 13 allows you to cure mortgage arrears over 3-5 years. The automatic stay stops foreclosure immediately.
+
+How many times can I cure?
+
+Most state laws do not limit cure frequency. However, serial defaults may attract scrutiny and lenders may seek court orders to proceed without further notice.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
+
+Related Guides
+
+341 Meeting of Creditors Guide
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Reaffirmation Agreements Explained
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on statutes of limitations and time-barred debt:
+
+Fair Debt Collection Practices Act
+Cornell LII -- FDCPA
+
+CFPB: Time-Barred Debt
+Consumer guide
+
+FTC: Debt Collection FAQs
+FTC guide
+
+CFPB Complaint Tool
+File complaints
+
+Find Free Legal Aid
+LSC legal aid finder
+
+National Consumer Law Center
+NCLC resources
+
+SOL Research
+Google Scholar
+
+Related Guides
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Bankruptcy Hardship Discharge
+
+Hardship discharge in Chapter 13
+
+bankruptcyhardship.org →
+
+Chapter 13 Plan Guide
+
+How Chapter 13 repayment plans work
+
+chapter13plan.org →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loan Forgiveness Programs -- studentloanforgive.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Cure Notice Requirements -- What Lenders Must Tell You
+Source: https://righttocure.org/notice-requirements.html
+
+Cure Notice Requirements
+
+What Lenders Must Tell You
+
+Home » Cure Notice Requirements
+
+Federal Notice Requirements
+
+For mortgages: contact within 36 days of delinquency, written notice within 45 days of loss mitigation options, and 120-day wait before filing foreclosure.
+
+State Requirements
+
+State requirements layer on top: specific days of written notice, notice of right to cure with exact amount, free counseling information, and in some states mediation requirements.
+
+What the Notice Must Contain
+
+A valid notice must include: statement of default, specific nature (which payments missed), exact cure amount, cure deadline, consequences if you do not cure, and your legal rights.
+
+Frequently Asked Questions
+
+What if I never received the notice?
+
+The repossession or foreclosure may be challenged. File a motion to set aside. The burden is on the lender to prove they sent proper notice.
+
+Does email count as notice?
+
+In most states, no. Statutory requirements typically require written mail (often certified). Check your state law and loan agreement.
+
+What if the notice has the wrong cure amount?
+
+A notice with an incorrect amount may be defective. If you paid the stated amount, you have a strong argument that you cured.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
+
+Related Guides
+
+341 Meeting of Creditors Guide
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Reaffirmation Agreements Explained
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on statutes of limitations and time-barred debt:
+
+Fair Debt Collection Practices Act
+Cornell LII -- FDCPA
+
+CFPB: Time-Barred Debt
+Consumer guide
+
+FTC: Debt Collection FAQs
+FTC guide
+
+CFPB Complaint Tool
+File complaints
+
+Find Free Legal Aid
+LSC legal aid finder
+
+National Consumer Law Center
+NCLC resources
+
+SOL Research
+Google Scholar
+
+Related Guides
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Bankruptcy Hardship Discharge
+
+Hardship discharge in Chapter 13
+
+bankruptcyhardship.org →
+
+Chapter 13 Plan Guide
+
+How Chapter 13 repayment plans work
+
+chapter13plan.org →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Reinstatement vs. Cure -- Understanding the Difference
+Source: https://righttocure.org/reinstatement-vs-cure.html
+
+Reinstatement vs. Cure
+
+Understanding the Difference
+
+Home » Reinstatement vs. Cure
+
+Definitions
+
+Cure means paying past-due amounts to restore the loan to current status. Reinstatement is essentially the same as cure. Redemption means paying the entire remaining balance. The cost difference is significant.
+
+When Reinstatement Is Available
+
+For mortgages, many states provide a statutory right to reinstate before foreclosure sale. For auto loans, reinstatement is less common by statute. In bankruptcy, Chapter 13 provides a right to cure that overrides state law.
+
+Strategic Considerations
+
+If you can afford to cure/reinstate, do it -- you keep the property on original terms. If not, Chapter 13 spreads the cure over 3-5 years. If you cannot cure at all, consider surrender plus bankruptcy to discharge any deficiency.
+
+Frequently Asked Questions
+
+Is reinstatement the same as cure?
+
+In most contexts, yes. Both refer to paying past-due amounts to restore current status.
+
+Can I reinstate after the foreclosure sale?
+
+In some states, yes. Some provide a post-sale redemption period (6-12 months). Check your state's foreclosure laws.
+
+What if I can afford to cure but not redeem?
+
+If your state provides a right to reinstate, use it. If the lender demands full balance, Chapter 13 de-accelerates the loan.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
+
+Related Guides
+
+341 Meeting of Creditors Guide
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Reaffirmation Agreements Explained
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on statutes of limitations and time-barred debt:
+
+Fair Debt Collection Practices Act
+Cornell LII -- FDCPA
+
+CFPB: Time-Barred Debt
+Consumer guide
+
+FTC: Debt Collection FAQs
+FTC guide
+
+CFPB Complaint Tool
+File complaints
+
+Find Free Legal Aid
+LSC legal aid finder
+
+National Consumer Law Center
+NCLC resources
+
+SOL Research
+Google Scholar
+
+Related Guides
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Bankruptcy Hardship Discharge
+
+Hardship discharge in Chapter 13
+
+bankruptcyhardship.org →
+
+Chapter 13 Plan Guide
+
+How Chapter 13 repayment plans work
+
+chapter13plan.org →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Right to Cure by State -- Pre-Default Notice Requirements
+Source: https://righttocure.org/right-to-cure-by-state.html
+
+Right to Cure by State
+
+Pre-Default Notice Requirements
+
+Home » Right to Cure by State
+
+Overview of State Cure Rights
+
+Every state provides some form of right to cure before enforcement. The specifics vary dramatically -- type of notice, cure period length, and debt types covered.
+
+States with Strong Protections
+
+Massachusetts requires 21-day notice for auto loans and 150-day for mortgages. Connecticut requires 15-day cure notice. Maine requires 30 days. New Hampshire 25 days. Wisconsin 15 days.
+
+States with Minimal Protections
+
+Some states provide little pre-repossession cure right for personal property. Even then, federal regulations provide a baseline for mortgages, and the loan contract itself may provide cure rights.
+
+Frequently Asked Questions
+
+How do I find my state's specific law?
+
+Start with your state's UCC adoption (auto loans) or foreclosure statutes (mortgages). Legal aid organizations can provide specific guidance.
+
+Does the right to cure apply to credit cards?
+
+Most state right-to-cure laws apply to secured transactions. Credit card companies must follow federal regulations regarding notices and state demand letter requirements.
+
+Can the lender waive the cure requirement?
+
+In most states, no. The right to cure is mandatory consumer protection that cannot be waived. If your lender claims waiver, consult a consumer protection attorney.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
+
+Related Guides
+
+341 Meeting of Creditors Guide
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Reaffirmation Agreements Explained
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on statutes of limitations and time-barred debt:
+
+Fair Debt Collection Practices Act
+Cornell LII -- FDCPA
+
+CFPB: Time-Barred Debt
+Consumer guide
+
+FTC: Debt Collection FAQs
+FTC guide
+
+CFPB Complaint Tool
+File complaints
+
+Find Free Legal Aid
+LSC legal aid finder
+
+National Consumer Law Center
+NCLC resources
+
+SOL Research
+Google Scholar
+
+Related Guides
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Bankruptcy Hardship Discharge
+
+Hardship discharge in Chapter 13
+
+bankruptcyhardship.org →
+
+Chapter 13 Plan Guide
+
+How Chapter 13 repayment plans work
+
+chapter13plan.org →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## UCC Cure Provisions -- Your Rights Under the Uniform Commercial Code
+Source: https://righttocure.org/ucc-cure-provisions.html
+
+UCC Cure Provisions
+
+Your Rights Under the Uniform Commercial Code
+
+Home » UCC Cure Provisions
+
+UCC Article 9 Overview
+
+UCC Article 9 governs secured transactions -- loans backed by personal property. While the base UCC does not mandate pre-repossession cure, it requires notice of sale, commercially reasonable disposition, and accounting for surplus. State adoptions often add cure rights.
+
+Notice Requirements
+
+UCC 9-611 requires the secured party to send notice before disposing of collateral. Many state adoptions add a cure period requirement. The notice must be sent in a reasonable time -- 10 days is a common minimum.
+
+Commercially Reasonable Disposition
+
+UCC 9-610 requires every aspect of the sale to be commercially reasonable. If the creditor conducts an unreasonable sale, you can challenge the deficiency balance. In some states, an unreasonable sale eliminates the deficiency entirely.
+
+Frequently Asked Questions
+
+Does the UCC apply to my car loan?
+
+Yes. Auto loans are secured transactions governed by UCC Article 9 as adopted by your state.
+
+What is the difference between cure and redemption?
+
+Cure means paying only past-due amounts to reinstate the loan. Redemption means paying the entire remaining balance. Cure is cheaper. Redemption is available under UCC 9-623 until the collateral is sold.
+
+Can a business debtor cure under the UCC?
+
+Yes, but consumer-specific protections may not apply. Business debtors rely on base UCC provisions. Business bankruptcy options are also available.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
+
+Related Guides
+
+341 Meeting of Creditors Guide
+
+What to Expect at a 341 Meeting
+
+Credit Counseling for Bankruptcy
+
+Reaffirmation Agreements Explained
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on statutes of limitations and time-barred debt:
+
+Fair Debt Collection Practices Act
+Cornell LII -- FDCPA
+
+CFPB: Time-Barred Debt
+Consumer guide
+
+FTC: Debt Collection FAQs
+FTC guide
+
+CFPB Complaint Tool
+File complaints
+
+Find Free Legal Aid
+LSC legal aid finder
+
+National Consumer Law Center
+NCLC resources
+
+SOL Research
+Google Scholar
+
+Related Guides
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Bankruptcy Hardship Discharge
+
+Hardship discharge in Chapter 13
+
+bankruptcyhardship.org →
+
+Chapter 13 Plan Guide
+
+How Chapter 13 repayment plans work
+
+chapter13plan.org →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loan Forgiveness Programs -- studentloanforgive.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
